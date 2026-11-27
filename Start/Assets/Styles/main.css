@@ -3,7 +3,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
     background-color: rgb(78, 78, 190);
-    display: inline-block 
+    text-align: center;
 }
 
 #idb{
@@ -19,13 +19,13 @@ color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: x-large;
  background-color: rgb(119, 71, 151);
- display: inline-block;
+ text-align: center;
  }
 
  #parageraph-4{
     color: rgb(204, 106, 106);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: inline-block;
+    text-align: center;
     font-size: x-large;
     background-color: black;
  }
@@ -35,6 +35,17 @@ color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: x-large;
     background-color: cadetblue;
-    display: inline-block;
+    text-align: center;
  }
+ .my-image {
+    display: block;
+    margin: 0 auto;
+}
+.booz {
+    width: fit-content;
+    border: 3px solid grey;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
 
